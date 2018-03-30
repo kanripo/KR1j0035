@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 字通
-#+DATE: 2018-03-30 13:56:24.545073
+#+DATE: 2018-03-30 14:14:34.974874
 #+PROPERTY: ID KR1j0035
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
@@ -131,7 +131,7 @@
 王字類　　　　主字類¶
 ¶
 ¶
-&ZX-111241;字類　　　　丗字類¶
+&KR5372;字類　　　　丗字類¶
 ¶
 ¶
 上卄字類　　　中卄字類¶
